@@ -5,9 +5,9 @@ function App() {
 
 
   return (
-    <>
-      <Cbcs></Cbcs>
-    </>
+  <div className="main">
+    <Cbcs></Cbcs>
+  </div>
   )
 }
 
